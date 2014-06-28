@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WiFi宝</string>
+    <string name="action_settings">设置</string>
+    <!--
+    <string name="action_forgot_password">找回密码</string>
+    <string name="title_activity_login">登陆</string>
+    <string name="login_progress_signing_in">登陆...</string>
+    <string name="prompt_email">邮箱</string>
+    <string name="prompt_password">密码</string>
+    <string name="action_sign_in_short">密码至少需要六位</string>
+    
+    <string name="error_field_required">不能为空</string>
+    <string name="error_invalid_password">密码至少为6个字符</string>
+    <string name="error_incorrect_password">账号或密码不正确</string>
+    <string name="error_invalid_email">邮箱格式不正确</string>
+    -->
+    <string name="action_sign_in_register">登录</string>
+    <string name="hello_world">Hello world</string>
+    <string name="wifi_passwd_tip">请输入Wi-Fi密码</string>
+    <string name="wifi_conn_tab">WiFi连接</string>
+    <string name="daohang_tab">网站导航</string>
+    <string name="app_tab">软件宝库</string>
+    <string name="wifi_scan_ok">扫描完成</string>
+    <string name="wifi_scanning">WiFi扫描...</string>
+    <string name="auto_math_wifi">一键连接</string>
+    <string name="share_current_wifi">登记当前使用WiFi</string>
+    <string name="click_login">点击登陆</string>
+    <string name="available_wifi">可用WiFi</string>
+    <string name="connected_wifi">已连接WiFi</string>
+    <string name="welcom_tip">欢迎您%1$s</string>
+    <string name="share">登记</string>
+    <string name="actionbar_share_msg">我发现了一款免费快速WiFi分享应用，赶快来试下吧，http://mspring.mobi/wifi_share_101.apk</string>
+    <string name="dialog_tip_before_regist_wifi">注册WiFi前会先验证WiFi密码，WiFi会从连接状态断开</string>
+    <string name="main_frag_click_open_wifi">WiFi已关闭，点击打开WiFi</string>
+    <string name="main_frag_connected_wifi">已连接%1$s</string>
+    <string name="main_frag_no_connection">当前没有连接WiFi</string>
+    <string name="match_wifi_tips">获取可用热点信息，连接中...</string>
+    <string name="open_in_outer_browser">用系统浏览器打开</string>
+    <string name="ok">确认</string>
+    <string name="reg_wifi_dialog_input_pws_hint">WiFi密码</string>
+    <string name="reg_wifi_dialog_input_title">请输入WiFi %1$s 的密码</string>
+    <string name="cancel">取消</string>
+    <string name="reg_wifi_dialog_share_btn_txt">分享</string>
+    <string name="auth_failed">自动连接前需要登录</string>
+    <string name="regist_wifi_error">登记失败，确认WiFi密码是否正确</string>
+    
+    <string name="grid_reg_wifi_txt">连接Wifi</string>
+    <string name="grid_news_txt">新闻</string>
+    <string name="grid_news_qq_txt">腾讯新闻</string>
+    <string name="grid_search_txt">百度</string>
+    <string name="grid_taobao_txt">淘宝</string>
+    <string name="grid_tmall_txt">天猫</string>
+    <string name="grid_jd_txt">京东</string>
+    <string name="grid_shiping_txt">腾讯视频</string>
+	<string name="grid_dianping_txt">大众点评</string>
+	<string name="grid_weibo_txt">微博</string>
+	<string name="grid_mogujie_txt">蘑菇街</string>
+	<string name="grid_jumei_txt">聚美优品</string>
+	<string name="grid_qunar_txt">去哪儿</string>
+	<string name="grid_qidian_txt">起点中文</string>
+	<string name="grid_autohome_txt">汽车之家</string>
+	<string name="grid_jiayuan_txt">世纪佳缘</string>
+</resources>

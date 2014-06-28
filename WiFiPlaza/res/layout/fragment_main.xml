@@ -1,0 +1,25 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.hoot.wifiplaza.MainActivity$PlaceholderFragment" >
+
+    <include
+        android:id="@+id/user_status"
+        layout="@layout/layout_user_status" />
+
+    <GridView
+        android:id="@+id/function_gridview"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/user_status"
+        android:gravity="center"
+        android:layout_marginTop="8dp"
+        android:numColumns="auto_fit"
+        android:columnWidth="70dp"
+        android:verticalSpacing="3dp"     
+  		android:horizontalSpacing="5dp" 
+        android:stretchMode="columnWidth" >
+    </GridView>
+
+</RelativeLayout>
